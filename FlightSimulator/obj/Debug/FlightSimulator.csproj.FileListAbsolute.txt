@@ -74,3 +74,44 @@ C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\FlightSimu
 C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.exe
 C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.pdb
 C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.btnguardar.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightLib.dll
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightLib.pdb
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormDistancia.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormInfoAvion.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormListaVuelos.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormParametros.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.btnguardar.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.MainForm.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormDatos.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSi.B36F22EA.Up2Date
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormDistancia.resources
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormInfoAvion.resources
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormListaVuelos.resources
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormParametros.resources
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.btnguardar.resources
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.MainForm.resources
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.FormDatos.resources
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightLib.dll
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\gestor.dll
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\System.Data.SQLite.dll
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\FlightLib.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\bin\Debug\gestor.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSi.B36F22EA.Up2Date
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\FlightSimulator\obj\Debug\FlightSimulator.pdb
