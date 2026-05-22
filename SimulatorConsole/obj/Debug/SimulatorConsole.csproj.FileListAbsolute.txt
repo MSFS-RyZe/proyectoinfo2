@@ -18,3 +18,23 @@ C:\Users\rsitj\Downloads\Your first project in C# (1)\Your first project in C#(c
 C:\Users\rsitj\Downloads\Your first project in C# (1)\Your first project in C#(cont)\PrimerProyecto\SimulatorConsole\obj\Debug\Simulato.840E03AB.Up2Date
 C:\Users\rsitj\Downloads\Your first project in C# (1)\Your first project in C#(cont)\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.exe
 C:\Users\rsitj\Downloads\Your first project in C# (1)\Your first project in C#(cont)\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\Simulato.840E03AB.Up2Date
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\Simulato.840E03AB.Up2Date
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
