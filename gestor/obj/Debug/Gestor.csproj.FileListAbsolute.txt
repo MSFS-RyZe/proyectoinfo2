@@ -1,0 +1,24 @@
+C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\gestor\bin\Debug\gestor.dll
+C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\gestor\bin\Debug\gestor.pdb
+C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\gestor\bin\Debug\System.Data.SQLite.dll
+C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.csproj.AssemblyReference.cache
+C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.csproj.CoreCompileInputs.cache
+C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.csproj.Up2Date
+C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.dll
+C:\Users\rsitj\Downloads\Info2_version1\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.pdb
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\gestor\bin\Debug\gestor.dll
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\gestor\bin\Debug\gestor.pdb
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\gestor\bin\Debug\System.Data.SQLite.dll
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\gestor\obj\Debug\Gestor.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\gestor\obj\Debug\Gestor.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\gestor\obj\Debug\Gestor.csproj.Up2Date
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.dll
+C:\Users\yo\Desktop\Info2_version2\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\gestor\bin\Debug\gestor.dll
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\gestor\bin\Debug\gestor.pdb
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\gestor\bin\Debug\System.Data.SQLite.dll
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\gestor\obj\Debug\Gestor.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\gestor\obj\Debug\Gestor.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\gestor\obj\Debug\Gestor.csproj.Up2Date
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.dll
+C:\Users\yo\Desktop\Info2_version2 - Copy\Info2_version1\Info2_version1\gestor\obj\Debug\gestor.pdb
